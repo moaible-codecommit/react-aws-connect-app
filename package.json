@@ -17,6 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "start-catalog": "start-storybook -p 9009 -s public",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
