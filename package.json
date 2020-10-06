@@ -22,7 +22,7 @@
     "eject": "react-scripts eject",
     "build-catalog": "build-storybook",
     "deploy-catalog": "gh-pages -d storybook-static",
-    "deploy-app": "amplify publish"
+    "deploy": "amplify publish"
   },
   "eslintConfig": {
     "extends": "react-app"
