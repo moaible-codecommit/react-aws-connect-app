@@ -1,23 +1,23 @@
 {
-  "dev": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-reactawsconnectapp-dev-34925-authRole",
-      "UnauthRoleArn": "arn:aws:iam::300336868397:role/amplify-reactawsconnectapp-dev-34925-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::300336868397:role/amplify-reactawsconnectapp-dev-34925-authRole",
-      "Region": "ap-northeast-1",
-      "DeploymentBucketName": "amplify-reactawsconnectapp-dev-34925-deployment",
-      "UnauthRoleName": "amplify-reactawsconnectapp-dev-34925-unauthRole",
-      "StackName": "amplify-reactawsconnectapp-dev-34925",
-      "StackId": "arn:aws:cloudformation:ap-northeast-1:300336868397:stack/amplify-reactawsconnectapp-dev-34925/eecf0990-0786-11eb-8d37-06ffc2bc5714",
-      "AmplifyAppId": "d1fwf0gu1ou1la"
-    },
-    "categories": {
-      "hosting": {
-        "amplifyhosting": {
-          "appId": "d1fwf0gu1ou1la",
-          "type": "manual"
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-reactawsconnectapp-dev-34925-authRole",
+            "UnauthRoleArn": "arn:aws:iam::300336868397:role/amplify-reactawsconnectapp-dev-34925-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::300336868397:role/amplify-reactawsconnectapp-dev-34925-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-reactawsconnectapp-dev-34925-deployment",
+            "UnauthRoleName": "amplify-reactawsconnectapp-dev-34925-unauthRole",
+            "StackName": "amplify-reactawsconnectapp-dev-34925",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:300336868397:stack/amplify-reactawsconnectapp-dev-34925/eecf0990-0786-11eb-8d37-06ffc2bc5714",
+            "AmplifyAppId": "d1fwf0gu1ou1la"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1fwf0gu1ou1la",
+                    "type": "manual"
+                }
+            }
         }
-      }
     }
-  }
 }
