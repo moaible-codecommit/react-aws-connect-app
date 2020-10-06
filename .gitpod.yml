@@ -10,3 +10,6 @@ ports:
 tasks:
   - init: echo 'init script' # runs during prebuild
     command: ./aws_ssh.sh ; yarn
+vscode:
+  extensions:
+    - JounQin.vscode-mdx@0.2.2:yGVD//sq6TMFE7X9pza5Cw==
